@@ -13,11 +13,11 @@ I used to play other games like...
 2. Gears of War
 3. Destiny
 
-My past consoles have been the 
+My past consoles have been the   
   *xbox  
   -Xbox360  
   +Xbox One  
   -PS4  
-
+⋅⋅* Unordered sub-list.
 
 If you'd like to go back to the original readme click [here](https://github.com/aVisoko/MarkdownChallenge/blob/master/README.md)
