@@ -14,10 +14,10 @@ I used to play other games like...
 3. Destiny
 
 My past consoles have been the 
-*xbox
--Xbox360
-+Xbox One
--PS4
+  *xbox
+  -Xbox360
+  +Xbox One
+  -PS4
 
 
 If you'd like to go back to the original readme click [here](https://github.com/aVisoko/MarkdownChallenge/blob/master/README.md)
