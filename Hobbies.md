@@ -17,4 +17,4 @@
 
 
 
-If youd like to go back to the original readme click ![here](https://github.com/aVisoko/MarkdownChallenge/blob/master/README.md)
+If youd like to go back to the original readme click [here](https://github.com/aVisoko/MarkdownChallenge/blob/master/README.md)
