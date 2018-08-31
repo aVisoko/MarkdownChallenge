@@ -6,6 +6,9 @@
 
 To see a few of my hobbies feel free to click [here](https://github.com/aVisoko/MarkdownChallenge/blob/master/Hobbies.md)
 
-```
-H2 = ## it's fun to use markdown
+It's fun to use markdown you can even highlight code as shown below!
+```ruby
+require 'redcarpet'
+markdown = Redcarpet.new("HelloWorld")
+puts markdown.to_html
 ```
